@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Fundação Faculdade de Medicina - FFM
-- 🌱 I’m currently learning SQL/PLSQL, Python, Java
-- 👯 I’m looking to collaborate on open sources using Python or other languages like Java
-- 🤔 I’m looking for help with Agile Methodology
+- 🌱 I’m currently learning SQL/PLSQL and Python, Java
+- 👯 I’m looking to collaborate on open sources using Python
+- 🤔 I’m looking for help with Agile Methodology and Java
 - 💬 Ask me about SQL/PLSQL and Python
 - 📫 How to reach me: elias.ap.pro@gmail.com
 - 📄 Know more about me in [https://www.linkedin.com/in/elias-ap](https://www.linkedin.com/in/elias-ap)
