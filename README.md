@@ -1,5 +1,6 @@
-### Hi reader 👋, my name is Elias and have 21 years old
-I am a student at higher education on Analysis Systems Development
+### Hi reader 👋
+
+My name is Elias and have 21 years old, I am a student at higher education on Analysis Systems Development
 
 <!--
 elias-ap/elias-ap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about SQL/PLSQL and Python
 - 📫 How to reach me: elias.ap.pro@gmail.com
 - 📄 Know more about me in [https://www.linkedin.com/in/elias-ap](https://www.linkedin.com/in/elias-ap)
-- ⚡ Fun fact: I like to train calisthenics
+- ⚡ Fun fact: I like to train calisthenics and watch the anime Jojo Bizarre Adventure
 
