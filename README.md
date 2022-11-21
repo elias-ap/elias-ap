@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi reader 👋, my name is Elias and have 21 years old \n
+I am a student at higher education on Analysis Systems Development
 
 <!--
 elias-ap/elias-ap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
