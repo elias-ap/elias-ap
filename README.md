@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Agile Methodology
 - 💬 Ask me about SQL/PLSQL and Python
 - 📫 How to reach me: elias.ap.pro@gmail.com
-- 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/elias-ap](https://www.linkedin.com/in/elias-ap)
+- 📄 Know more about me in [https://www.linkedin.com/in/elias-ap](https://www.linkedin.com/in/elias-ap)
 - ⚡ Fun fact: I like to train calisthenics
 
