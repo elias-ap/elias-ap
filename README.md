@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 <!--
-**elias-ap/elias-ap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+elias-ap/elias-ap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on Fundação Faculdade de Medicina - FFM
 - 🌱 I’m currently learning SQL/PLSQL, Python, Java
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: elias.ap.pro@gmail.com
 - 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/elias-ap](https://www.linkedin.com/in/elias-ap)
 - ⚡ Fun fact: I like to train calisthenics
--->
+
