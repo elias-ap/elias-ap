@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning SQL/PLSQL, Python, Java and Automations 
 - 👯 I’m looking to collaborate on open sources using Python
 - 🤔 I’m looking for help with Agile Methodology and Java
+- 📖 I’m reading Clean Code - Robert Cecil Martin
 - 💬 Ask me about SQL/PLSQL and Python
 - 📫 How to reach me: elias.ap.pro@gmail.com
 - 📄 Know more about me in [https://www.linkedin.com/in/elias-ap](https://www.linkedin.com/in/elias-ap)
