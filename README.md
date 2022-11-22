@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Fundação Faculdade de Medicina and pessoal projects
-- 🌱 I’m currently learning SQL/PLSQL and Python, Java
+- 🌱 I’m currently learning SQL/PLSQL, Python, Java and Automations 
 - 👯 I’m looking to collaborate on open sources using Python
 - 🤔 I’m looking for help with Agile Methodology and Java
 - 💬 Ask me about SQL/PLSQL and Python
