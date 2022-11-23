@@ -1,7 +1,7 @@
 # Hi reader 👋
 ## A few informations about me:<br>
 My name is Elias and have 21 years old, I am a student at higher education on Systems Analysis and Development, recently i found my passion in development of softwares.<br><br>
-Now I'm analysing the systems, databases and processes of my job to develop problems solutions using SQL/PLSQL and Python while I improve pratical skills.
+Now I'm analysing the systems, databases and processes of my job to develop problems solutions using SQL/PLSQL to make code blocks, create procedures, triggers and Python while I improve pratical skills.
 <!--
 elias-ap/elias-ap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
