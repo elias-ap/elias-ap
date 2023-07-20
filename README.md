@@ -1,18 +1,15 @@
 # Hi reader 👋
 ## A few informations about me:<br>
-<p>My name is Elias and have 22 years old, I'm a student at higher education in Systems Analysis and Development, recently i found my passion in development of softwares.</p>
-<p>Currently, I'm analysing the systems, databases and processes of my job to develop problems solutions using SQL/PLSQL to make code blocks, create procedures, triggers and improve current documentations about tables and some process.</p>
-<p>I'm studying Python a lot too and finally I finished my first own software in that language, this project is to help me and my coworkers do a manual task in automatic form, to see more informations about him, you can check the link below.</p>
+My name is Elias and I'm 22 years old, I'm a student at higher education in Systems Analysis and Development, recently I found my passion in development of softwares.
 
-https://github.com/elias-ap/AlteradorDeGuiasTISS
+Currently, I'm working as Software Developer, developing and maintaning Web Applications, using C#, .NET and ASP.NET frameworks. I want to improve my english and developer skills to get a international job.
 
 - 🔭 I’m currently working at Fundação Faculdade de Medicina and personal projects
-- 🌱 I’m currently learning SQL/PLSQL, Python, Java and Automations 
-- 👯 I’m looking to collaborate on open sources using Python
-- 🤔 I’m looking for help with Agile Methodology and Java
+- 🌱 I’m currently learning MVC architecture and C#
+- 👯 I’m looking to collaborate on open sources using C#, Python
+- 🤔 I’m looking for help with imigration
 - 📖 I’m reading Clean Code - Robert Cecil Martin
 - 💬 Ask me about SQL/PLSQL and Python
 - 📫 How to reach me: elias.ap.pro@gmail.com
 - 📄 Know more about me at [https://www.linkedin.com/in/elias-ap](https://www.linkedin.com/in/elias-ap)
 - ⚡ Curiosity about me: I like to train calisthenics and watch the anime Jojo Bizarre Adventure
-
